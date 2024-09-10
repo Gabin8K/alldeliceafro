@@ -1,0 +1,1 @@
+const e={"auth.login":"Anmelden","auth.register":"Registrierung","auth.failed":"Diese Angaben stimmen nicht mit unseren Aufzeichnungen überein.","auth.password":"The provided password is incorrect.","auth.throttle":"Too many login attempts. Please try again in :seconds seconds."};export{e as default};
