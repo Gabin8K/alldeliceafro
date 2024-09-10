@@ -6,6 +6,7 @@ use App\Http\Controllers\Restaurant\ProductController;
 use App\Http\Controllers\Restaurant\ProfileController;
 use Illuminate\Support\Facades\Route;
 
+
 Route::group([
     'prefix' => '{language}/restaurant',
     'as' => 'restaurant.'
